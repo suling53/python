@@ -25,7 +25,7 @@ SECRET_KEY = 'jx(=9a%^9xv(gc@kf+5z)g(17cj88xh-errgovyt7x8b(@3c*l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.zmrenwu.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.zmrenwu.com','81.71.163.6','hellodjango-blog-tutorial-demo.zmrenwu.com']
 
 
 # Application definition
