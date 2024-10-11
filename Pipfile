@@ -5,8 +5,11 @@ name = "pypi"
 
 [packages]
 django = "==2.2.3"
+elasticsearch = ">=2,<3"
 markdown = "*"
 gunicorn = "*"
+faker = "*"
+django-pure-pagination = "*"
 
 [dev-packages]
 fabric = "*"
